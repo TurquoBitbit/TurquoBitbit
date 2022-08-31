@@ -1,6 +1,6 @@
 # Turquo Cabbit
 
-### Hi Hi，我是Truquo，也是鋼韌，很高興認識你!<br />
+### Hi Hi，我是Turquo，也是鋼韌，很高興認識你!<br />
 
 <img src="./pic/Turquo_heart.png" width=25% div align=center><br /><br />
 
