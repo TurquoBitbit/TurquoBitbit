@@ -36,8 +36,7 @@
         * 2022/04 賣掉[A&K Kann Alpha](https://www.astellnkern.com/product/product_detail.jsp?productNo=7) (預計換成[SU-9](https://smsl-audio.com/portal/product/detail/id/715.html) 或[D90](https://www.tpdz.net/productinfo/645180.html))
         * 2022/05 買了[SMSL SU-9](https://smsl-audio.com/portal/product/detail/id/715.html)
 
-        * 眼看著坑越來越大，立志有生之年一定要入音響坑
-        * ([免費Tidal車車還有空位!!](https://www.plurk.com/p/opo6et))<br /><br />
+        * 眼看著坑越來越大，立志有生之年一定要入音響坑<br /><br />
 
     * 常聽的音樂
         * 古典:室內樂、協奏曲到大編制 (2022開始大量聽古典樂)
