@@ -8,15 +8,16 @@
 * 目前在台北當韌體工程師<br />
 * [回噗浪](https://www.plurk.com/night5916lan)<br />
 * [推特](https://twitter.com/Turquobitbit)
+* [有專案的Github](https://github.com/TurquoCabbit) ~~(很廢bu要看)~~
 ---
 * 涉略
     * 電影 
         * 無論商業片冷門片，只要有興趣都看
-        * 不看恐怖片，討厭jump scare
+        * 不看恐怖片，討厭jump scare<br /><br />
 
     * 奇幻/科幻文學
         * 最喜歡的幾個系列<br />
-            * 颶光典籍(或者說整個寰宇?)
+            * 颶光典籍(或者說整個[寰宇](https://www.brandonsanderson.com/)?)
             * 刺客系列
             * 獵魔士系列
             * 海柏利昂
@@ -45,15 +46,28 @@
         * 電影遊戲原聲帶 : 就算沒看/玩過的也會聽
         * 史詩音樂<br /><br />
 
-    * 喜愛meme
-
-    * 喜愛Dad jokes
-
     * 嗜喝咖啡
+        * 喜歡中深焙
+        * [1Zpresso XPro](https://1zpresso.com/xpro/)
+        * [愛樂壓](https://aeropress.com/)
+            * 我的配方:
+                1. 中深焙豆16克，磨到接近espresso的細度
+                2. 愛樂壓採用倒置法放入咖啡粉
+                3. 熱水沖濕濾紙，開始計時
+                4. 注入85度C熱水100克，攪拌均勻
+                5. 蓋上蓋子壓出空氣，浸泡到100秒
+                6. 翻過來擠出咖啡，加鮮奶200克飲用<br /><br />
 
-    * Cryptocurrency<br /><br />
+    * Indexing Investment
+        * [Bogleheads Three-fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)<br /><br />
 
+    * cryptoCurrency<br /><br />
+
+    * 喜愛meme<br /><br />
+
+    * 喜愛Dad jokes<br /><br />
+---
 * [回噗浪](https://www.plurk.com/night5916lan)<br />
 * [推特](https://twitter.com/Turquobitbit)
 
-<div align=right> 2022/08/30
+<!-- <div align=right> -->
