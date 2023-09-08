@@ -4,8 +4,8 @@
 
 <img src="./pic/Turquo_heart.png" width=25% div align=center><br /><br />
 
-* 27 歲
-* 目前在台北當韌體工程師<br />
+* 28 歲
+* 目前在台北內湖當韌體工程師<br />
 * [回噗浪](https://www.plurk.com/night5916lan)<br />
 * [推特](https://twitter.com/Turquobitbit)
 * [有專案的Github](https://github.com/TurquoCabbit) ~~(很廢bu要看)~~
