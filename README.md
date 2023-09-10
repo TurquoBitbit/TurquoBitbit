@@ -7,7 +7,8 @@
 * 28 歲
 * 目前在台北內湖當韌體工程師<br />
 * [回噗浪](https://www.plurk.com/night5916lan)<br />
-* [推特](https://twitter.com/Turquobitbit)
+* [去唉克斯](https:/x.com/Turquobitbit)
+* [去Facebook](https://www.facebook.com/turquoCabbit)
 * [有專案的Github](https://github.com/TurquoCabbit) ~~(很廢bu要看)~~
 ---
 * 涉略
@@ -68,6 +69,7 @@
     * 喜愛Dad jokes<br /><br />
 ---
 * [回噗浪](https://www.plurk.com/night5916lan)<br />
-* [推特](https://twitter.com/Turquobitbit)
+* [去唉克斯](https://x.com/Turquobitbit)
+* [去Facebook](https://www.facebook.com/turquoCabbit)
 
 <!-- <div align=right> -->
