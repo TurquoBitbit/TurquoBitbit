@@ -1,6 +1,6 @@
 # Turquo Cabbit
 
-### Hi Hi，我是Turquo，也是鋼韌，很高興認識你!<br />
+### Hi Hi，我是Turquo，中文名是韜光，很高興認識你!<br />
 
 <img src="./pic/Turquo_heart.png" width=25% div align=center><br /><br />
 
@@ -20,10 +20,6 @@
             * 海柏利昂
             * 時光之輪
         * 也正嘗試創作自己的<br /><br />
-        
-    * 電影 
-        * 無論商業片冷門片，只要有興趣都看
-        * 不看恐怖片，討厭jump scare<br /><br />
 
     * 身在耳機坑裡
         * ~~目前[m-DAC mini](https://www.audiolab.co.uk/mdac-mini/) 推 [DT770 pro 250Ω](https://europe.beyerdynamic.com/dt-770-pro.html)~~
@@ -42,14 +38,15 @@
 
     * 常聽的音樂
         * 古典:室內樂、**協奏曲**到大編制 (2022開始大量聽古典樂)
-        * 西洋老歌(70's~90's) : 超愛Journey, Queen
+        * 喜歡聽電吉他
+        * 西洋老歌(70's~90's) : 超愛Journey, Queen, U2, 
         * 國台語老歌 : 特愛伍佰
         * 電影/遊戲原聲帶 : 就算沒看/玩過的也會聽
         * 史詩音樂<br /><br />
 
     * 嗜喝咖啡
         * 喜歡中深焙
-        * [1Zpresso XPro](https://1zpresso.com/xpro/)
+        * 磨豆機是[1Zpresso X-Pro](https://1zpresso.com/xpro/)，加上自己做了一個[電動套件](https://www.plurk.com/p/p73ac5)
         * [愛樂壓](https://aeropress.com/)
             * 我的配方:
                 1. 中深焙豆16克，磨到接近espresso的細度
@@ -57,7 +54,19 @@
                 3. 熱水沖濕濾紙，開始計時
                 4. 注入85度C熱水100克，攪拌均勻
                 5. 蓋上蓋子壓出空氣，浸泡到100秒
-                6. 翻過來擠出咖啡，加鮮奶200克飲用<br /><br />
+                6. 翻過來擠出咖啡，加鮮奶180克飲用<br /><br />
+        * 也會簡單用[V60](https://www.hario.com.tw/?product=v60%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af01%e9%80%8f%e6%98%8e)沖沖
+            * 還在摸索中，目前是用粉水比1:20, 五等份沖
+    
+    * 攝影
+        * [相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+        * 2023獸無限後掉進相機坑
+            * [Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/)
+            * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/)
+
+    * 電影 
+        * 無論商業片冷門片，只要有興趣都看
+        * 不看恐怖片，討厭jump scare<br /><br />
 
     * Indexing Investment
         * [Bogleheads Three-fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)<br /><br />
