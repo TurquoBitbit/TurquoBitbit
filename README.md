@@ -2,15 +2,16 @@
 
 ### Hi Hi，我是Turquo，中文名是韜光，很高興認識你!<br />
 
-<img src="./pic/Turquo_heart.png" width=25% div align=center><br /><br />
+<img src="./pic/Turquo_listen.png" width=25% div align=center><br /><br />
+
+* [噗浪](https://www.plurk.com/night5916lan)
+* [Facebook](https://www.facebook.com/turquoCabbit)
+* [X](https://twitter.com/Turquobitbit)
+---
 
 * 28 歲
-* 目前在台北內湖當韌體工程師<br />
-* [噗浪](https://www.plurk.com/night5916lan)<br />
-* [唉克斯](https://twitter.com/Turquobitbit)
-* [Facebook](https://www.facebook.com/turquoCabbit)
-* [有專案的Github](https://github.com/TurquoCabbit) ~~(很廢bu要看)~~
----
+* 目前在台北內湖當韌體工程師
+
 * 涉略
     * 奇幻/科幻文學
         * 最喜歡的幾個系列<br />
@@ -59,10 +60,11 @@
             * 還在摸索中，目前是用粉水比1:20, 五等份沖
     
     * 攝影
-        * [相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+        * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
         * 2023獸無限後掉進相機坑
             * [Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/)
             * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/)
+            * [NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)
 
     * 電影 
         * 無論商業片冷門片，只要有興趣都看
@@ -77,8 +79,8 @@
 
     * 喜愛Dad jokes<br /><br />
 ---
-* [噗浪](https://www.plurk.com/night5916lan)<br />
-* [唉克斯](https://twitter.com/Turquobitbit)
+* [噗浪](https://www.plurk.com/night5916lan)
+* [X](https://twitter.com/Turquobitbit)
 * [Facebook](https://www.facebook.com/turquoCabbit)
 
 <!-- <div align=right> -->
