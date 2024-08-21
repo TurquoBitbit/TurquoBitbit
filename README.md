@@ -7,6 +7,8 @@
 * [噗浪](https://www.plurk.com/night5916lan)
 * [Facebook](https://www.facebook.com/turquoCabbit)
 * [X](https://twitter.com/Turquobitbit)
+* [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+
 ---
 
 * 28 歲
@@ -65,6 +67,7 @@
             * [Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/)
             * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/)
             * [NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)
+            * [NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)
 
     * 電影 
         * 無論商業片冷門片，只要有興趣都看
@@ -80,7 +83,7 @@
     * 喜愛Dad jokes<br /><br />
 ---
 * [噗浪](https://www.plurk.com/night5916lan)
-* [X](https://twitter.com/Turquobitbit)
 * [Facebook](https://www.facebook.com/turquoCabbit)
-
+* [X](https://twitter.com/Turquobitbit)
+* 
 <!-- <div align=right> -->
