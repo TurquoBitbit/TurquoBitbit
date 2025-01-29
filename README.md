@@ -4,14 +4,14 @@
 
 <img src="./pic/Turquo_listen.png" width=25% div align=center><br /><br />
 
-* [噗浪](https://www.plurk.com/night5916lan)
 * [Facebook](https://www.facebook.com/turquoCabbit)
 * [X](https://twitter.com/Turquobitbit)
 * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+* [噗浪](https://www.plurk.com/night5916lan)
 
 ---
 
-* 28 歲
+* 29 歲
 * 目前在台北內湖當韌體工程師
 
 * 涉略
@@ -67,7 +67,7 @@
             * [Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/)
             * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/)
             * [NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)
-            * [NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)
+            * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
 
     * 電影 
         * 無論商業片冷門片，只要有興趣都看
@@ -76,14 +76,12 @@
     * Indexing Investment
         * [Bogleheads Three-fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)<br /><br />
 
-    * cryptoCurrency<br /><br />
-
     * 喜愛meme<br /><br />
 
     * 喜愛Dad jokes<br /><br />
 ---
-* [噗浪](https://www.plurk.com/night5916lan)
 * [Facebook](https://www.facebook.com/turquoCabbit)
 * [X](https://twitter.com/Turquobitbit)
-* 
+* [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+* [噗浪](https://www.plurk.com/night5916lan)
 <!-- <div align=right> -->
