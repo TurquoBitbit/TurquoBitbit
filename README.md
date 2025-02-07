@@ -66,7 +66,7 @@
         * 2023獸無限後掉進相機坑
             * [Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/)
             * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/)
-            * [NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)
+            * ~~[NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)~~
             * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
 
     * 電影 
