@@ -7,8 +7,8 @@
 </figcaption>
 </div><br>
 
-* [Facebook](https://www.facebook.com/turquoCabbit)
-* [X](https://twitter.com/Turquobitbit)
+* [Facebook](https://www.facebook.com/turquoCabbit) {中文}
+* [X](https://twitter.com/Turquobitbit) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan)
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)
@@ -128,8 +128,8 @@
 
 
 ---
-* [Facebook](https://www.facebook.com/turquoCabbit)
-* [X](https://twitter.com/Turquobitbit)
+* [Facebook](https://www.facebook.com/turquoCabbit) {中文}
+* [X](https://twitter.com/Turquobitbit) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan)
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)
