@@ -1,9 +1,9 @@
 ## Hi Hi，我是Turquo，中文名是韜光，很高興認識你!
 
 <div align="left">
-<img src="./pic/selfIntro/2025-08-11.png" width="16%">
+<img src="./pic/selfIntro/2025-08-11.png" width="32%">
 <figcaption>
-<a href="https://slow.work/" target="_blank">@Slow.work</a>
+<a href="https://slow.work/" target="_blank"><br>@Slow.work</a>
 </figcaption>
 </div><br>
 
@@ -63,7 +63,7 @@
         * 目前使用[V60 01](https://www.hario.com.tw/?product=v60%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af01%e9%80%8f%e6%98%8e)沖
             * 粉水比1:15
             * 水溫93度C
-        * [愛樂壓](https://aeropress.com/)
+        * 也玩[愛樂壓](https://aeropress.com/)
             * 我的配方:
                 1. 中深焙豆16克，磨到接近espresso的細度
                 2. 愛樂壓採用倒置法放入咖啡粉
@@ -99,7 +99,7 @@
         <div align="center">
         <img src="./pic/turquo/refsheet_cb.png" width="80%">
         <figcaption>
-        <a href="https://www.facebook.com/puiidrgonthevelociraptor" target="_blank">@妞龍</a>
+        <a href="https://www.facebook.com/puiidrgonthevelociraptor" target="_blank"><br>@妞龍</a>
         </figcaption>
         </div><br>
 
@@ -107,7 +107,7 @@
         <div align="center">
         <img src="./pic/turquo/refsheet_b.png" width="80%">
         <figcaption>
-        <a href="https://susey3377.wixsite.com/visionalbird" target="_blank">@無鳥</a>
+        <a href="https://susey3377.wixsite.com/visionalbird" target="_blank"><br>@無鳥</a>
         </figcaption>
         </div><br>
 
@@ -118,7 +118,7 @@
         <div align="center">
         <img src="./pic/crema/refsheet.png" width="80%">
         <figcaption>
-        <a href="https://www.facebook.com/hu.mu.737173" target="_blank">@狐睦</a>
+        <a href="https://www.facebook.com/hu.mu.737173" target="_blank"><br>@狐睦</a>
         </figcaption>
         </div><br>
         
