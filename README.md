@@ -97,7 +97,7 @@
         * [TG sticker pack](https://t.me/addstickers/turquo_cabbit)
         * 貓兔 Cabbit
         <div align="center">
-        <img src="./pic/turquo/refsheet_cb.png" width="80%">
+        <img src="./pic/turquo/refsheet_cb.png" width="100%">
         <figcaption>
         <a href="https://www.facebook.com/puiidrgonthevelociraptor" target="_blank"><br>@妞龍</a>
         </figcaption>
@@ -105,7 +105,7 @@
 
         * 兔擠 bunny
         <div align="center">
-        <img src="./pic/turquo/refsheet_b.png" width="80%">
+        <img src="./pic/turquo/refsheet_b.png" width="100%">
         <figcaption>
         <a href="https://susey3377.wixsite.com/visionalbird" target="_blank"><br>@無鳥</a>
         </figcaption>
@@ -116,7 +116,7 @@
         * [TG sticker pack](https://t.me/addstickers/cremac)
         * 邊境牧羊犬
         <div align="center">
-        <img src="./pic/crema/refsheet.png" width="80%">
+        <img src="./pic/crema/refsheet.png" width="100%">
         <figcaption>
         <a href="https://www.facebook.com/hu.mu.737173" target="_blank"><br>@狐睦</a>
         </figcaption>
