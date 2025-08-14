@@ -1,4 +1,6 @@
-## Hi Hi，我是Turquo，中文名是韜光，很高興認識你!
+## 嗨嗨！我是韜光，很高興你想認識我！
+
+[English version](README_EN.md)
 
 <div align="left">
 <img src="./pic/selfIntro/2025-08-11.png" width="32%">
