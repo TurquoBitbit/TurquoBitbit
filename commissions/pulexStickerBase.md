@@ -14,6 +14,11 @@
         </figcaption>
     3. 委託人後續以此成品製成的印刷品、模型等現實與數位衍生物品，皆僅供個人與非商業用途使用
 
+### 聯絡資訊
+* [Telegram](https://t.me/night5916lan)
+* cntsfsgun@gmail.com
+  
+
 ### 委託細項
 * 填色一張貼圖新台幣 200元
 * 一包[PLUEX貼圖模板](https://www.pulexart.com/store.html)至少需挑選6張貼圖進行填色（貼圖模板包內貼圖張數少於6張者不受此限）
