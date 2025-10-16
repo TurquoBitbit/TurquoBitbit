@@ -11,7 +11,7 @@
 
 * [Facebook](https://www.facebook.com/turquoCabbit) {中文}
 * [X](https://twitter.com/Turquobitbit) {ENG}
-* [噗浪](https://www.plurk.com/night5916lan)
+* [噗浪](https://www.plurk.com/night5916lan) {中文}
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)
 * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
@@ -19,6 +19,16 @@
 ---
 * 涉略
     * 主要使用中文/英文，正在緩慢學習日文中<br>
+
+    * 攝影
+        * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+        * 2023獸無限後掉進相機坑
+            * ~~[Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/) (20231128)~~
+            * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/) (20231128)
+            * ~~[NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)~~
+            * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
+            * [NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)
+            * [Nikon Z6III](https://imaging.nikon.com/imaging/lineup/mirrorless/z6_3/) (20251016)<br>
 
     * 奇幻/科幻文學、武俠小說
         * 最喜歡的幾個系列
@@ -49,11 +59,12 @@
             * 2022/01 買了[Dan Clark ÆON 2 Noire](https://danclarkaudio.com/aeon-2-noir.html)
             * 2022/01 買了[Topping A90](https://www.tpdz.net)
             * 2022/04 賣掉[A&K Kann Alpha](https://www.astellnkern.com/product/product_detail.jsp?productNo=7)
-            * 2022/05 買了[SMSL SU-9](https://smsl-audio.com)<br>
+            * 2022/05 買了[SMSL SU-9](https://smsl-audio.com)
+            * 2025/08 賣掉[SMSL SU-9](https://smsl-audio.com)<br>
 
     * 常聽的音樂
         * 古典:**協奏曲**到大編制 (2022開始大量聽古典樂)
-        * JPOP，喜歡日式電吉他的聲音
+        * 日搖，喜歡日式電吉他的聲音
         * 西洋老歌/搖滾(70's~90's)：超愛Journey, Queen, U2, 
         * 國台語老歌：特愛伍佰
         * 古風歌
@@ -61,12 +72,11 @@
         * 史詩音樂<br>
 
     * 嗜喝咖啡
-        * 喜歡淺中焙
-            * 哥倫比亞豆大喜
         * 磨豆機是[1Zpresso X-Pro](https://1zpresso.com/xpro/)，加上自己做了一個[電動套件](https://www.plurk.com/p/p73ac5)
-        * 目前使用[V60 01](https://www.hario.com.tw/?product=v60%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af01%e9%80%8f%e6%98%8e)沖
+        * 目前使用[V60 02](https://www.hario.com.tw/?product=v60%e9%80%8f%e6%98%8e02%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af)沖
+            * 淺焙、淺中焙
             * 粉水比1:15
-            * 水溫93度C
+            * 水溫92度C
         * 也玩[愛樂壓](https://aeropress.com/)
             * 我的配方:
                 1. 中深焙豆16克，磨到接近espresso的細度
@@ -75,14 +85,6 @@
                 4. 注入85度C熱水100克，攪拌均勻
                 5. 蓋上蓋子壓出空氣，浸泡到100秒
                 6. 翻過來擠出咖啡，加鮮奶180克飲用<br>
-
-    * 攝影
-        * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
-        * 2023獸無限後掉進相機坑
-            * [Nikon Z6II](https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/)
-            * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/)
-            * ~~[NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)~~
-            * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~<br>
 
     * 電影 
         * 無論商業片冷門片，只要有興趣都看
