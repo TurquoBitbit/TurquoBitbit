@@ -32,7 +32,7 @@
 
 ### 若有興趣可由以下方式與我聯繫
 * [Telegram](https://t.me/night5916lan)
-* [X](https://twitter.com/Turquobitbit)
+* [Facebook](https://www.facebook.com/turquoCabbit)
 * cntsfsgun@gmail.com
 
 ---
