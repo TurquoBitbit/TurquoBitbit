@@ -47,6 +47,7 @@
                 3. [UE 11Pro](https://pro.ultimateears.com/products/ue-11-pro)
             * 前端
                 1. [ZEN DAC V2](https://ifi-audio.com/)
+                2. [Topping A90](https://www.tpdz.net)
 
         * LOG：
             * 2017/07 [m-DAC mini](https://www.audiolab.co.uk/mdac-mini/) 推 [DT770 pro 250Ω](https://europe.beyerdynamic.com/dt-770-pro.html)
