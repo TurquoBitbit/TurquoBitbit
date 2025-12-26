@@ -9,6 +9,7 @@
 
 * [Facebook](https://www.facebook.com/turquoCabbit) {Chinese}
 * [X](https://twitter.com/Turquobitbit) {English}
+* [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {English}
 * [Plurk](https://www.plurk.com/night5916lan) {Chinese}
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)
@@ -141,6 +142,7 @@
 ---
 * [Facebook](https://www.facebook.com/turquoCabbit) {Chinese}
 * [X](https://twitter.com/Turquobitbit) {English}
+* [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {English}
 * [Plurk](https://www.plurk.com/night5916lan)
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)

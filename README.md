@@ -11,6 +11,7 @@
 
 * [Facebook](https://www.facebook.com/turquoCabbit) {中文}
 * [X](https://twitter.com/Turquobitbit) {ENG}
+* [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan) {中文}
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)
@@ -137,10 +138,19 @@
             晦覆霞羽尾輕搖，璃韜不與鯤鱗較。
             平，莫憂騷；祿，莫憂騷。
 
+            
+        <div align="center">
+        <img src="./pic/上官晦璃/上官晦璃.png" width="100%">
+        <figcaption>
+        <a href="https://www.facebook.com/mixdog018" target="_blank"><br>@DOG</a>
+        </figcaption>
+        </div><br>
+
 
 ---
 * [Facebook](https://www.facebook.com/turquoCabbit) {中文}
 * [X](https://twitter.com/Turquobitbit) {ENG}
+* [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan)
 * [Twitch](https://www.twitch.tv/turquocabbit)
 * [Telegram](https://t.me/night5916lan)
