@@ -14,8 +14,9 @@
 * [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan) {中文}
 * [Twitch](https://www.twitch.tv/turquocabbit)
-* [Telegram](https://t.me/night5916lan)
 * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+* [Discord](https://discordapp.com/users/401422083231449098)
+* [Telegram](https://t.me/night5916lan)
 
 ---
 * 涉略
@@ -153,6 +154,7 @@
 * [BSKY](https://bsky.app/profile/turquocabbit.bsky.social) {ENG}
 * [噗浪](https://www.plurk.com/night5916lan)
 * [Twitch](https://www.twitch.tv/turquocabbit)
-* [Telegram](https://t.me/night5916lan)
 * [Flickr 相簿](https://www.flickr.com/photos/197896838@N03/albums/)
+* [Discord](https://discordapp.com/users/401422083231449098)
+* [Telegram](https://t.me/night5916lan)
 
