@@ -1,12 +1,11 @@
-title: "Your Name"
-description: "My GitHub profile"
+title: "Turquo the Cabbit"
+description: "Turquo the Cabbit"
 theme: minima
 
 markdown: kramdown
 permalink: pretty
 
 header_pages: []
- 
 
 # Tell Jekyll to process these files even though they don't start with front matter
 include:
