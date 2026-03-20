@@ -1,6 +1,6 @@
 title: "Turquo the Cabbit"
 description: "Turquo the Cabbit"
-theme: minima
+theme: jekyll-theme-midnight
 
 markdown: kramdown
 permalink: pretty
