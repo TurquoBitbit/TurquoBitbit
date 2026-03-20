@@ -1,6 +1,6 @@
 ## 嗨嗨！我是韜光，很高興你想認識我！
 
-[English version](README_EN.md)
+[English version](./README_EN)
 
 <div align="left">
 <img src="./pic/selfIntro/2025-08-11.png" width="32%">
