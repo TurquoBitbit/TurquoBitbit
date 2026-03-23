@@ -4,15 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
-    <!-- midnight theme CSS served by GitHub Pages -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <style>
+      /* ── Background ── */
+      body {
+        background-color: #353535;
+      }
+
       .main-content {
         max-width: 60%;
         margin: 0 auto;
         padding: 2rem;
-        font-size: 1.2rem;   /* adjust: 1rem = default, 1.2rem = bigger, 1.4rem = large */
+        font-size: 1.1rem;   /* adjust: 1rem = default, 1.2rem = bigger, 1.4rem = large */
         line-height: 1.6;    /* slightly more breathing room between lines */
+        color: #575757;              /* light green-turquoise body text */
+      }
+
+      /* ── Links ── */
+      .main-content a {
+        color: #50d6a1;              /* green-turquoise link */
+      }
+      .main-content a:hover {
+        color: #a7ffd6;              /* lighter green on hover */
+        text-decoration: underline;
+      }
+      .main-content a:visited {
+        color: #80c9a0;              /* muted green-turquoise for visited */
       }
     </style>
   </head>
