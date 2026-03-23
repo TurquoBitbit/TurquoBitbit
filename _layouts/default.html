@@ -31,13 +31,35 @@
       .main-content a:visited {
         color: #80c9a0;              /* muted green-turquoise for visited */
       }
+
+      /* ── Footer ── */
+      .site-footer {
+        background-color: #cacaca;
+        margin: 2rem -2rem -2rem -2rem;
+        padding: 1rem 2rem;
+        text-align: center;
+      }
+      .site-footer a {
+        color: #353535;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .site-footer a:hover {
+        text-decoration: underline;
+      }
+      .site-footer span {
+        color: #353535;
+        font-size: 0.9rem;
+      }
     </style>
   </head>
   <body>
     <section class="main-content">
       {{ content }}
       <footer class="site-footer">
-        <span class="site-footer-credits">{{ site.title }}</span>
+        <a href="{{ '/' | relative_url }}">韜光</a>
+        &nbsp;·&nbsp;
+        <span>{{ site.title }}</span>
       </footer>
     </section>
   </body>
