@@ -3,7 +3,8 @@ description: "Turquo the Cabbit"
 theme: jekyll-theme-midnight
 
 markdown: kramdown
-permalink: pretty
+permalink: none        # pages sit at /README_EN.html, no trailing slash
+                       # so relative image paths like ./pic/ resolve correctly
 
 header_pages: []
 

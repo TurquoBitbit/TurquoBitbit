@@ -68,6 +68,16 @@ title: "Stick base color fill"
 
 [TG Crema Pack](https://t.me/addstickers/cremac)
 
+---
+
+### 若有興趣可由以下方式與我聯繫
+* [Telegram](https://t.me/night5916lan)
+* [Facebook](https://www.facebook.com/turquoCabbit)
+* [X](https://twitter.com/Turquobitbit)
+* cntsfsgun@gmail.com
+
+---
+
 
 
 
