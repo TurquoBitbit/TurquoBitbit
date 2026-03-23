@@ -1,7 +1,3 @@
----
-title: "Stick base color fill"
----
-
 # PULEX 貼圖模板填色委託
 
 ## 提供各種族[PULEX貼圖模板](https://www.pulexart.com/store.html)的填色委託

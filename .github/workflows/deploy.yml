@@ -12,7 +12,7 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0        # need full history for merge
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Git identity
@@ -34,6 +34,9 @@ jobs:
 
       - name: Install imagemagick and webp
         run: sudo apt-get install -y imagemagick webp
+
+      - name: Add Jekyll front matter to markdown files
+        run: python3 .github/scripts/add_front_matter.py
 
       - name: Convert PNG/JPG to WebP thumbnails
         run: python3 .github/scripts/convert_images.py
