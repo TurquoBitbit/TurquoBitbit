@@ -1,3 +1,8 @@
+---
+layout: default
+title: "韜光"
+---
+
 ## 嗨嗨！我是韜光，很高興你想認識我！
 
 [English version](./README_EN)
