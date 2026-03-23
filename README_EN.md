@@ -3,9 +3,9 @@ title: "Turquo the Cabbit"
 ---
 
 # Hiiii! I'm Turquo it's really nice to see you here!
-
+<br>
 <div align="left">
-<img src="./pic/selfIntro/2025-08-11.png" width="32%">
+<img src="./pic/selfIntro/2025-08-11.png" width="20%">
 <figcaption>
 <a href="https://slow.work/" target="_blank"><br>@Slow.work</a>
 </figcaption>
@@ -31,7 +31,7 @@ title: "Turquo the Cabbit"
             * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/) (20231128)
             * ~~[NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)~~
             * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
-            * [NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)
+            * ~~[NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)~~
             * [Nikon Z6III](https://imaging.nikon.com/imaging/lineup/mirrorless/z6_3/) (20251016)<br>
 
     * Fantasy/Sci-Fi and Wuxia Literature
@@ -79,8 +79,8 @@ title: "Turquo the Cabbit"
         * My grinder is [1Zpresso X-Pro](https://1zpresso.com/xpro/), to which I've added a custom [electric mod](https://www.plurk.com/p/p73ac5)
         * Currently brewing with [V60 02](https://www.hario.com.tw/?product=v60%e9%80%8f%e6%98%8e02%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af)
             * Light to medium Roast
-            * Water-to-Coffee Ratio: 1:15
-            * Water Temperature: 93°C
+            * Water-to-Coffee Ratio: 1:17
+            * Water Temperature: 87°C
         * Also using an [AeroPress](https://aeropress.com/)
             * My Recipe:
                 1. 16g of beans, ground to near-espresso fineness
@@ -105,7 +105,7 @@ title: "Turquo the Cabbit"
 * My OCs
     * Turquo
         * [TG sticker pack](https://t.me/addstickers/turquo_cabbit)
-        * Cabbit type
+        * Cabbit
         <div align="center">
         <img src="./pic/turquo/refsheet_cb.png" width="100%">
         <figcaption>
@@ -113,7 +113,7 @@ title: "Turquo the Cabbit"
         </figcaption>
         </div><br>
 
-        * Bunny type
+        * Bunny
         <div align="center">
         <img src="./pic/turquo/refsheet_b.png" width="100%">
         <figcaption>
@@ -133,8 +133,8 @@ title: "Turquo the Cabbit"
         </div><br>
         
 
-    * 上官晦璃
-        * Dragon
+    *  [上官晦璃](https://www.facebook.com/profile.php?id=61584125551075)
+        * ~~Noddle~~ Dragon
         <div align="center">
         <img src="./pic/上官晦璃/上官晦璃.png" width="100%">
         <figcaption>

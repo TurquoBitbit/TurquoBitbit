@@ -7,7 +7,7 @@ title: "韜光"
 [English version](./README_EN.md)
 
 <div align="left">
-<img src="./pic/selfIntro/2025-08-11.png" width="32%">
+<img src="./pic/selfIntro/2025-08-11.png" width="20%">
 <figcaption>
 <a href="https://slow.work/" target="_blank"><br>@Slow.work</a>
 </figcaption>
@@ -33,7 +33,7 @@ title: "韜光"
             * [NIKKOR Z 24-120mm F4 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/) (20231128)
             * ~~[NIKKOR Z 40mm F2 SE](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/)~~
             * ~~[NIKKOR Z 85mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/)~~
-            * [NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)
+            * ~~[NIKKOR Z 50mm F1.8 S](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/) (20250818)~~
             * [Nikon Z6III](https://imaging.nikon.com/imaging/lineup/mirrorless/z6_3/) (20251016)<br>
 
     * 奇幻/科幻文學、武俠小說
@@ -82,8 +82,8 @@ title: "韜光"
         * 磨豆機是[1Zpresso X-Pro](https://1zpresso.com/xpro/)，加上自己做了一個[電動套件](https://www.plurk.com/p/p73ac5)
         * 目前使用[V60 02](https://www.hario.com.tw/?product=v60%e9%80%8f%e6%98%8e02%e6%a8%b9%e8%84%82%e6%bf%be%e6%9d%af)沖
             * 淺焙、淺中焙
-            * 粉水比1:15
-            * 水溫92度C
+            * 粉水比1:17
+            * 水溫86度C
         * 也玩[愛樂壓](https://aeropress.com/)
             * 我的配方:
                 1. 中深焙豆16克，磨到接近espresso的細度
@@ -136,14 +136,15 @@ title: "韜光"
         </div><br>
         
 
-    * 上官晦璃
+    * [上官晦璃](https://www.facebook.com/profile.php?id=61584125551075)
 
             隔岸聽潮，盛月相邀，銀鏈懸飛雲山高。
             小爐燒，茗香繞。
             晦覆霞羽尾輕搖，璃韜不與鯤鱗較。
             平，莫憂騷；祿，莫憂騷。
 
-            
+        
+        * ~~麵條~~龍
         <div align="center">
         <img src="./pic/上官晦璃/上官晦璃.png" width="100%">
         <figcaption>
