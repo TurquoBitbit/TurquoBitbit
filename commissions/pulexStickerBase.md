@@ -16,6 +16,7 @@ title: "Stick base color fill"
         <figcaption>
         <a href="https://www.pulexart.com" target="_blank"><br>pulexart</a>
         </figcaption>
+        </div>
     3. 委託人後續以此成品製成的印刷品、模型等現實與數位衍生物品，皆僅供個人與非商業用途使用
 
 ### 聯絡資訊
@@ -49,23 +50,30 @@ title: "Stick base color fill"
 
 <div align="center">
 <img src="./pic/crema/tennis.png" width="40%">
+</div>
 
 <div align="center">
 <img src="./pic/crema/03.png" width="40%">
+</div>
 
 <div align="center">
 <img src="./pic/crema//06.png" width="40%">
+</div>
 
 <div align="center">
 <img src="./pic/crema/19.png" width="40%">
+</div>
 
 <div align="center">
 <img src="./pic/crema/sleep.png" width="40%">
+</div>
 
 <div align="center">
 <img src="./pic/crema/10.png" width="40%">
-
-[TG Crema Pack](https://t.me/addstickers/cremac)
+<figcaption>
+<a href="https://t.me/addstickers/cremac" target="_blank"><br>Crema sticker pack</a>
+</figcaption>
+</div>
 
 ---
 
