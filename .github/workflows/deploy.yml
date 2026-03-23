@@ -1,0 +1,48 @@
+name: Merge and Deploy to Jekyll Branch
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # need full history for merge
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Merge master into jekyll_branch
+        run: |
+          git checkout jekyll_branch || git checkout -b jekyll_branch
+          git merge master --no-edit --strategy-option=theirs
+
+      - name: Rename README.md to index.md
+        run: |
+          if [ -f README.md ]; then
+            cp README.md index.md
+            echo "README.md copied to index.md"
+          fi
+
+      - name: Install imagemagick and webp
+        run: sudo apt-get install -y imagemagick webp
+
+      - name: Convert PNG/JPG to WebP thumbnails
+        run: python3 .github/scripts/convert_images.py
+
+      - name: Rewrite img tags in markdown files
+        run: python3 .github/scripts/rewrite_img_tags.py
+
+      - name: Commit and push jekyll_branch
+        run: |
+          git add -A
+          git diff --staged --quiet || git commit -m "Auto: sync from master, convert images [skip ci]"
+          git push origin jekyll_branch
