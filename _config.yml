@@ -8,6 +8,12 @@ permalink: none        # pages sit at /README_EN.html, no trailing slash
 
 header_pages: []
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # Tell Jekyll to process these files even though they don't start with front matter
 include:
   - index.md

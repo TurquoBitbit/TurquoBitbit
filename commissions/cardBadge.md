@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "3D print badge "
 ---
 
