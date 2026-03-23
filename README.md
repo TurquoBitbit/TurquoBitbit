@@ -6,6 +6,8 @@ title: "韜光"
 
 [English version](./README_EN.md)
 
+[~~如果排版炸裂了可以看看這裡~~](https://github.com/TurquoBitbit)
+
 <div align="left">
 <img src="./pic/selfIntro/2025-08-11.png" width="20%">
 <figcaption>
