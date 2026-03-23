@@ -32,9 +32,6 @@ jobs:
             echo "README.md copied to index.md"
           fi
 
-      - name: Install imagemagick and webp
-        run: sudo apt-get install -y imagemagick webp
-
       - name: Add Jekyll front matter to markdown files
         run: python3 .github/scripts/add_front_matter.py
 
