@@ -1,0 +1,1 @@
+python ./tools/manage_pages.py
