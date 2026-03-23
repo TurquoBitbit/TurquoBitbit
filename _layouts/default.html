@@ -9,33 +9,37 @@
       /* ── Background ── */
       body {
         background-color: #353535;
+        margin: 0;
+        padding: 0;
       }
 
       /* ── Images ── */
       .main-content img {
-        border-radius: 8px;                          /* rounded corners */
-        box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.5); /* soft dark shadow blend */
+        border-radius: 8px;
+        box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.5);
+        max-width: 100%;     /* never overflow their container */
+        height: auto;        /* keep aspect ratio */
       }
 
       .main-content {
         max-width: 60%;
         margin: 0 auto;
         padding: 2rem;
-        font-size: 1.1rem;   /* adjust: 1rem = default, 1.2rem = bigger, 1.4rem = large */
-        line-height: 1.6;    /* slightly more breathing room between lines */
-        color: #cacaca;              /* light green-turquoise body text */
+        font-size: 1.1rem;
+        line-height: 1.6;
+        color: #cacaca;
       }
 
       /* ── Links ── */
       .main-content a {
-        color: #50d6a1;              /* green-turquoise link */
+        color: #50d6a1;
       }
       .main-content a:hover {
-        color: #a7ffd6;              /* lighter green on hover */
+        color: #a7ffd6;
         text-decoration: underline;
       }
       .main-content a:visited {
-        color: #80c9a0;              /* muted green-turquoise for visited */
+        color: #80c9a0;
       }
 
       /* ── Footer ── */
@@ -46,18 +50,45 @@
         text-align: center;
       }
       .site-footer a {
-        color: #353535;
+        color: #cacaca;
         text-decoration: none;
         font-weight: bold;
       }
       .site-footer a:hover {
-        color: #a7ffd6;              /* lighter green on hover */
+        color: #a7ffd6;
         text-decoration: underline;
       }
-      .site-content a:visited {
-        color: #80c9a0;              /* muted green-turquoise for visited */
+      .site-footer a:visited {
+        color: #80c9a0;
       }
-      
+
+      /* ── Tablet (max 1024px) ── */
+      @media (max-width: 1024px) {
+        .main-content {
+          max-width: 80%;
+        }
+      }
+
+      /* ── Mobile (max 600px) ── */
+      @media (max-width: 600px) {
+        .main-content {
+          max-width: 100%;
+          padding: 1rem;
+          font-size: 1rem;
+          line-height: 1.7;
+        }
+
+        /* stack inline images to full width on mobile */
+        .main-content img {
+          width: 100% !important;   /* override inline width="32%" */
+          margin: 0.5rem 0;
+        }
+
+        .site-footer {
+          margin: 1rem -1rem -1rem -1rem;
+          padding: 0.8rem 1rem;
+        }
+      }
     </style>
   </head>
   <body>
