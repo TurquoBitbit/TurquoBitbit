@@ -7,6 +7,7 @@ Skips files already named *_thumb.webp to avoid double-converting.
 """
 
 import os
+import shutil
 import subprocess
 from pathlib import Path
 
@@ -17,16 +18,30 @@ MAX_WIDTH = 1200
 QUALITY = 80
 
 
+def find_magick() -> str:
+    """
+    Returns the correct ImageMagick command for the current environment.
+    ImageMagick 7+ uses 'magick', older versions use 'convert'.
+    """
+    if shutil.which("magick"):
+        return "magick"
+    if shutil.which("convert"):
+        return "convert"
+    raise FileNotFoundError(
+        "ImageMagick not found. Install it with: sudo apt install imagemagick"
+    )
+
+
 def needs_conversion(src: Path, thumb: Path) -> bool:
     if not thumb.exists():
         return True
     return src.stat().st_mtime > thumb.stat().st_mtime
 
 
-def convert(src: Path, thumb: Path):
+def convert(src: Path, thumb: Path, magick_cmd: str):
     print(f"  converting: {src} → {thumb}")
     result = subprocess.run([
-        "convert",          # imagemagick
+        magick_cmd,
         str(src),
         "-resize", f"{MAX_WIDTH}x>",   # only downscale, never upscale
         "-quality", str(QUALITY),
@@ -40,6 +55,9 @@ def convert(src: Path, thumb: Path):
 
 
 def main():
+    magick_cmd = find_magick()
+    print(f"  using ImageMagick command: '{magick_cmd}'")
+
     converted = 0
     skipped = 0
 
@@ -56,7 +74,7 @@ def main():
                 thumb = src.with_name(src.stem + "_thumb.webp")
 
                 if needs_conversion(src, thumb):
-                    convert(src, thumb)
+                    convert(src, thumb, magick_cmd)
                     converted += 1
                 else:
                     skipped += 1
