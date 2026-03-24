@@ -1,7 +1,10 @@
+---
+title: "Turquo the Cabbit"
+---
 # Hiiii! I'm Turquo it's really nice to see you here!
 <br>
 <div align="left">
-<img src="./pic/selfIntro/2025-08-11.png" width="20%">
+<a href="./pic/selfIntro/2025-08-11.png"><img src="pic/selfIntro/2025-08-11_thumb.webp" width="20%"></a>
 <figcaption>
 <a href="https://slow.work/" target="_blank"><br>@Slow.work</a>
 </figcaption>
@@ -103,7 +106,7 @@
         * [TG sticker pack](https://t.me/addstickers/turquo_cabbit)
         * Cabbit
         <div align="center">
-        <img src="./pic/turquo/refsheet_cb.png" width="100%">
+        <a href="./pic/turquo/refsheet_cb.png"><img src="pic/turquo/refsheet_cb_thumb.webp" width="100%"></a>
         <figcaption>
         <a href="https://www.facebook.com/puiidrgonthevelociraptor" target="_blank"><br>@妞龍</a>
         </figcaption>
@@ -111,7 +114,7 @@
 
         * Bunny
         <div align="center">
-        <img src="./pic/turquo/refsheet_b.png" width="100%">
+        <a href="./pic/turquo/refsheet_b.png"><img src="pic/turquo/refsheet_b_thumb.webp" width="100%"></a>
         <figcaption>
         <a href="https://susey3377.wixsite.com/visionalbird" target="_blank"><br>@無鳥</a>
         </figcaption>
@@ -122,7 +125,7 @@
         * [TG sticker pack](https://t.me/addstickers/cremac)
         * Border Collie
         <div align="center">
-        <img src="./pic/crema/refsheet.png" width="100%">
+        <a href="./pic/crema/refsheet.png"><img src="pic/crema/refsheet_thumb.webp" width="100%"></a>
         <figcaption>
         <a href="https://www.facebook.com/hu.mu.737173" target="_blank"><br>@狐睦</a>
         </figcaption>
@@ -132,7 +135,7 @@
     *  [上官晦璃](https://www.facebook.com/profile.php?id=61584125551075)
         * ~~Noddle~~ Dragon
         <div align="center">
-        <img src="./pic/上官晦璃/上官晦璃.png" width="100%">
+        <a href="./pic/上官晦璃/上官晦璃.png"><img src="pic/上官晦璃/上官晦璃_thumb.webp" width="100%"></a>
         <figcaption>
         <a href="https://www.facebook.com/mixdog018" target="_blank"><br>@DOG</a>
         </figcaption>
