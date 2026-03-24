@@ -17,8 +17,8 @@
       .main-content img {
         border-radius: 8px;
         box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.5);
-        max-width: 100%;     /* never overflow their container */
-        height: auto;        /* keep aspect ratio */
+        max-width: 100%;
+        height: auto;
       }
 
       .main-content {
@@ -42,22 +42,25 @@
         color: #80c9a0;
       }
 
-      /* ── Footer ── */
+      /* ── Header + Footer shared style ── */
+      .site-header,
       .site-footer {
         background-color: #222222;
-        margin: 2rem -2rem -2rem -2rem;
         padding: 1rem 2rem;
         text-align: center;
       }
+      .site-header a,
       .site-footer a {
         color: #cacaca;
         text-decoration: none;
         font-weight: bold;
       }
+      .site-header a:hover,
       .site-footer a:hover {
         color: #a7ffd6;
         text-decoration: underline;
       }
+      .site-header a:visited,
       .site-footer a:visited {
         color: #80c9a0;
       }
@@ -69,7 +72,6 @@
         }
       }
 
-
       /* ── Mobile (max 600px) ── */
       @media (max-width: 600px) {
         .main-content {
@@ -78,21 +80,21 @@
           font-size: 1rem;
           line-height: 1.7;
         }
-
-        .site-footer {
-          margin: 1rem -1rem -1rem -1rem;
-          padding: 0.8rem 1rem;
-        }
       }
 
     </style>
   </head>
   <body>
+    <header class="site-header">
+      <a href="{{ '/' | relative_url }}">韜光 TURQUO</a>
+    </header>
+
     <section class="main-content">
       {{ content }}
-      <footer class="site-footer">
-        <a href="{{ '/' | relative_url }}">韜光 TURQUO</a>
-      </footer>
     </section>
+
+    <footer class="site-footer">
+      <a href="{{ '/' | relative_url }}">韜光 TURQUO</a>
+    </footer>
   </body>
 </html>
