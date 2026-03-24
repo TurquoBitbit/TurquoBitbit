@@ -25,6 +25,11 @@ jobs:
           git checkout jekyll_branch || git checkout -b jekyll_branch
           git merge master --no-edit --strategy-option=theirs
 
+      - name: Install packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick webp
+
       - name: Rename README.md to index.md
         run: |
           if [ -f README.md ]; then
