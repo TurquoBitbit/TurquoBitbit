@@ -3,7 +3,7 @@ description: "Turquo the Cabbit"
 theme: jekyll-theme-midnight
 
 
-baseurl: "/TurquoBitbit"   # repo name — fixes all relative_url paths
+baseurl: "/turquobitbit"   # repo name — fixes all relative_url paths
 url: "https://turquobitbit.github.io"
 
 markdown: kramdown
